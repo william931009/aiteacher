@@ -1,0 +1,8 @@
+{
+  "name": "Silver-Haired Taigi AI",
+  "description": "An AI assistant for the elderly featuring Taigi voice output, traffic checking via TDX, and memo management.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
